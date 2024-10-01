@@ -22,3 +22,8 @@ Popularity-Based-Filtering:
 
 Collaborative Filtering:
 ![alt](https://github.com/SiddharthKrSingh/Book-Recommender-System/blob/main/images/Screenshot%202024-10-02%20003209.png)
+
+
+## Dataset:
+The Dataset is taken from Kaggle
+link:- https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
