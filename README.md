@@ -17,3 +17,8 @@ After developing the system locally, Deployed it using Render, making the app ac
 
 Popularity-Based-Filtering:
 ![alt](https://github.com/SiddharthKrSingh/Book-Recommender-System/blob/main/images/Screenshot%202024-10-02%20002957.png)
+
+
+
+Collaborative Filtering:
+![alt](https://github.com/SiddharthKrSingh/Book-Recommender-System/blob/main/images/Screenshot%202024-10-02%20003209.png)
