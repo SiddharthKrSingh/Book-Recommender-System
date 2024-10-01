@@ -12,3 +12,8 @@ This is a simpler method where the most popular books (by rating count, average 
 
 4. Render for Deployment:
 After developing the system locally, Deployed it using Render, making the app accessible online.
+
+## Images
+
+Popularity-Based-Filtering:
+![alt](https://github.com/SiddharthKrSingh/Book-Recommender-System/blob/main/images/Screenshot%202024-10-02%20002957.png)
